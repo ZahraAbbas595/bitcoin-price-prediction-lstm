@@ -70,5 +70,7 @@ Comparison with GRU and Transformer models
 ---
 
 ## Author
+
 Zahra Abbas
+
 Developed as a deep learning and time-series forecasting project focused on Bitcoin price prediction.
