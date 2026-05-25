@@ -30,7 +30,9 @@ Jupyter Notebook
 ## Project Structure
 
 ├── Bitcoin_dataset.csv     # Historical Bitcoin dataset
+
 ├── Python_code.ipynb       # Main implementation notebook
+
 └── README.md               # Project documentation
 
 --- 
